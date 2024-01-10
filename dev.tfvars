@@ -1,8 +1,8 @@
-client_id = "9b22f17c-d719-4cc6-9509-87649d6c6445"
 
-client_secret = "dose1202ff387a4851c5ec10b7afc199faaa"
+client_id = "5ca219cb-1b28-4749-83bc-b209f3727d46"
 
-databricks_account_id = "c0d92253-ea34-4fa1-a768-5daf67b45480"
+client_secret = "doseeec4491c5ce3b165dfc085ea69781b54"
+
+databricks_account_id = "f1af597c-95c2-4e34-b716-25ebeb46b1e4"
 
 region = "us-east-1"
-
