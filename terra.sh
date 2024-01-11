@@ -1,6 +1,4 @@
 #!/bin/bash
-pwd
-ls -ltr
 cd ~
 cd /opt/iac
 pwd
